@@ -2,18 +2,18 @@ EAGLE AutoRouter Statistics:
 
 Job           : C:/Users/hojun/Documents/eagle/polarinstruments/polarTRX.brd
 
-Start at      : 23:01:50 (2016-01-13)
-End at        : 23:01:51 (2016-01-13)
-Elapsed time  : 00:00:01
+Start at      : 17:47:22 (2016-01-15)
+End at        : 17:47:22 (2016-01-15)
+Elapsed time  : 00:00:00
 
-Signals       :    50   RoutingGrid: 50 mil  Layers: 2
-Connections   :   152   predefined:  152 ( 174 Vias )
+Signals       :    57   RoutingGrid: 50 mil  Layers: 2
+Connections   :   164   predefined:  164 ( 185 Vias )
 
 Router memory :   27588
 
 Passname          :     Route Optimize1 Optimize2 Optimize3 Optimize4
 
-Time per pass     :  00:00:00  00:00:01  00:00:00  00:00:00  00:00:00
+Time per pass     :  00:00:00  00:00:00  00:00:00  00:00:00  00:00:00
 Number of Ripups  :         0         0         0         0         0
 max. Level        :         0         0         0         0         0
 max. Total        :         0         0         0         0         0
